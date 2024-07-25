@@ -237,6 +237,7 @@ const TyreListings = [
         "model": "RC-3200",
         "type": "Recreational"
     },
+    
     {
         "title": "Heavy Load Tire",
         "description": "Tire designed for heavy load vehicles.",
